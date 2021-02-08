@@ -1,4 +1,4 @@
-# If you dont know how to do this, you can read the comments in here or the description in github
+# If you dont know how to do this, you can read the comments in here or the description in github.
 # If you need help in pypresence, you can visit the docs: https://qwertyquerty.github.io/pypresence/html/index.html
 # This is only an example for a presence with pypresence. I am not the developer of pypresence!
 # Pypresence on GitHub: https://github.com/qwertyquerty/pypresence
@@ -7,10 +7,10 @@
 from pypresence import Presence
 import time
 
-rpc = Presence(739245643377148026)  # The ID of you Application you use
+rpc = Presence(739245643377148026)  # The ID of your Application you use
 rpc.connect()  # Here the RP connects.
 
-# Here the RP gets updated. You can delete things, you don't want to have in your RP
+# Here the RP gets updated. You can delete things, you don't want to have in your RP.
 while True:
     try:
         rpc.update(
