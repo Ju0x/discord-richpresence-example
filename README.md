@@ -11,6 +11,6 @@ To make an Application for your RP, you must visit https://discord.com/developer
 Then, you go to the button "New Application" right in the corner. If you done this, you have your Application!
 There you can find the topic "Rich Presence" and there "Visualizer". There you can see some data you can use.
 When you need the large_image and the small_image, you must go to "Art Assets", and there you can Upload Images.
-Alle Uploaded Images there have a name. This name you can use to select them in the program.
+Alle Uploaded Images there have a name. This name you can use in the program.
 So, if you name the uploaded Image "wumpus", you can write large_image="wumpus" or small_image="wumpus".
 You can also use the picture of your application. This picture has the same name like the application but in lowercase! (Application name: "App", then the Image name is "app".)
