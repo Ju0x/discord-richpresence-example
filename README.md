@@ -5,7 +5,7 @@ First, you must have pypresence installed. (with `pip3 install pypresence` / `py
 If you have problems with pypresence, you can find the docs of pypresence here: https://qwertyquerty.github.io/pypresence/html/index.html
 or the GitHub page: https://github.com/qwertyquerty/pypresence
 
-# 1. Make an Application for the RP
+## Make an Application and get the data for the RP:
 
 To make an Application for your RP, you must visit https://discord.com/developers/applications.
 Then, you go to the button "New Application" right in the corner. If you done this, you have your Application!
