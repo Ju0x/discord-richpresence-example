@@ -45,10 +45,10 @@ while True:
             ]
         )
 
-        print('The RP should be displayed now!')
+        print('The RP is displayed!')
 
     except Exception as e:
-        print(f"The RP cannot be started! Error: {e}")
+        print(f"The RP cannot be displayed! Error: {e}")
 
     # You can change your RP after some time.
     # --> WARNING: DONT REMOVE THE time.sleep()!
